@@ -1,0 +1,18 @@
+scheme: "vn-night"
+author: "Michael Grogan (https://github.com/MichaelGrogan) based on vn_night (https://github.com/nxvu699134/vn-night.nvim)"
+base00: "171831" #background
+base01: "31324B" #lighter background (Status bars, line number, folding marks)
+base02: "7D7E97" #selection background 
+base03: "9697B0" #comments, line highlighting
+base04: "B0B1CA" #dark foreground
+base05: "CACBE4" #foreground
+base06: "E3E4FD" #light foreground (not often used?)
+base07: "FCFDFF" #light background (not often used?)
+base08: "ff3c41" #variables, xml tags, markup link text
+base09: "f79617" #ints, bools, consts, xml attribs
+base0A: "ffc24b" #classes, markup bold, search text bg
+base0B: "84CE5C" #strings, inherited classes
+base0C: "50EAFA" #support, regex, escape chars
+base0D: "32b4ff" #functions, methods, attribute IDS
+base0E: "a884f3" #keywords, storage, selector
+base0F: "23D4AC" #deprecated, opening/closing embeded langs
